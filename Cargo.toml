@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "canopen-client",
+    "canopen-eds"
+]
+resolver = "2"
